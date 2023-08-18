@@ -1,0 +1,14 @@
+C:\SistemaCleanArchitecture\POS\POS.Domain\bin\Debug\net7.0\POS.Domain.deps.json
+C:\SistemaCleanArchitecture\POS\POS.Domain\bin\Debug\net7.0\POS.Domain.dll
+C:\SistemaCleanArchitecture\POS\POS.Domain\bin\Debug\net7.0\POS.Domain.pdb
+C:\SistemaCleanArchitecture\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.csproj.AssemblyReference.cache
+C:\SistemaCleanArchitecture\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\SistemaCleanArchitecture\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.AssemblyInfoInputs.cache
+C:\SistemaCleanArchitecture\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.AssemblyInfo.cs
+C:\SistemaCleanArchitecture\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.csproj.CoreCompileInputs.cache
+C:\SistemaCleanArchitecture\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.dll
+C:\SistemaCleanArchitecture\POS\POS.Domain\obj\Debug\net7.0\refint\POS.Domain.dll
+C:\SistemaCleanArchitecture\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.pdb
+C:\SistemaCleanArchitecture\POS\POS.Domain\obj\Debug\net7.0\ref\POS.Domain.dll
+C:\SistemaCleanArchitecture\POS\POS.Domain\bin\Debug\net7.0\POS.Domain.runtimeconfig.json
+C:\SistemaCleanArchitecture\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\SistemaCleanArchitecture\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Infrastructure.deps.json
+C:\SistemaCleanArchitecture\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Infrastructure.dll
+C:\SistemaCleanArchitecture\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Infrastructure.pdb
+C:\SistemaCleanArchitecture\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.csproj.AssemblyReference.cache
+C:\SistemaCleanArchitecture\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\SistemaCleanArchitecture\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.AssemblyInfoInputs.cache
+C:\SistemaCleanArchitecture\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.AssemblyInfo.cs
+C:\SistemaCleanArchitecture\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\SistemaCleanArchitecture\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.dll
+C:\SistemaCleanArchitecture\POS\POS.Infrastructure\obj\Debug\net7.0\refint\POS.Infrastructure.dll
+C:\SistemaCleanArchitecture\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.pdb
+C:\SistemaCleanArchitecture\POS\POS.Infrastructure\obj\Debug\net7.0\ref\POS.Infrastructure.dll
+C:\SistemaCleanArchitecture\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Domain.dll
+C:\SistemaCleanArchitecture\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Utilities.dll
+C:\SistemaCleanArchitecture\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Domain.pdb
+C:\SistemaCleanArchitecture\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Utilities.pdb
+C:\SistemaCleanArchitecture\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.csproj.CopyComplete
