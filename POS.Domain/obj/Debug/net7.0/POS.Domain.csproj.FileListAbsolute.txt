@@ -12,3 +12,17 @@ C:\SistemaCleanArchitecture\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.pdb
 C:\SistemaCleanArchitecture\POS\POS.Domain\obj\Debug\net7.0\ref\POS.Domain.dll
 C:\SistemaCleanArchitecture\POS\POS.Domain\bin\Debug\net7.0\POS.Domain.runtimeconfig.json
 C:\SistemaCleanArchitecture\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.genruntimeconfig.cache
+C:\ProyectoPosVenta\Cshard_POSBackend\POS.Domain\bin\Debug\net7.0\POS.Domain.deps.json
+C:\ProyectoPosVenta\Cshard_POSBackend\POS.Domain\bin\Debug\net7.0\POS.Domain.runtimeconfig.json
+C:\ProyectoPosVenta\Cshard_POSBackend\POS.Domain\bin\Debug\net7.0\POS.Domain.dll
+C:\ProyectoPosVenta\Cshard_POSBackend\POS.Domain\bin\Debug\net7.0\POS.Domain.pdb
+C:\ProyectoPosVenta\Cshard_POSBackend\POS.Domain\obj\Debug\net7.0\POS.Domain.csproj.AssemblyReference.cache
+C:\ProyectoPosVenta\Cshard_POSBackend\POS.Domain\obj\Debug\net7.0\POS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoPosVenta\Cshard_POSBackend\POS.Domain\obj\Debug\net7.0\POS.Domain.AssemblyInfoInputs.cache
+C:\ProyectoPosVenta\Cshard_POSBackend\POS.Domain\obj\Debug\net7.0\POS.Domain.AssemblyInfo.cs
+C:\ProyectoPosVenta\Cshard_POSBackend\POS.Domain\obj\Debug\net7.0\POS.Domain.csproj.CoreCompileInputs.cache
+C:\ProyectoPosVenta\Cshard_POSBackend\POS.Domain\obj\Debug\net7.0\POS.Domain.dll
+C:\ProyectoPosVenta\Cshard_POSBackend\POS.Domain\obj\Debug\net7.0\refint\POS.Domain.dll
+C:\ProyectoPosVenta\Cshard_POSBackend\POS.Domain\obj\Debug\net7.0\POS.Domain.pdb
+C:\ProyectoPosVenta\Cshard_POSBackend\POS.Domain\obj\Debug\net7.0\POS.Domain.genruntimeconfig.cache
+C:\ProyectoPosVenta\Cshard_POSBackend\POS.Domain\obj\Debug\net7.0\ref\POS.Domain.dll
