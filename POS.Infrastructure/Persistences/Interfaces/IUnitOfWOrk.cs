@@ -10,6 +10,9 @@ namespace POS.Infrastructure.Persistences.Interfaces
     {
         //DECLARACION O MATRICULA DE NUESTRAS INTERFACES A NIVEL DE REPOSITORIO
         ICategoryRepository Category { get; }
+
+        IUserRepository User { get; }
+
         void SaveChanges();
         Task SaveChangesAsync();
     }

@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Test\\POS.Test.csproj": {}
+    "C:\\SistemaCleanArchitecture\\POS.Test\\POS.Test.csproj": {}
   },
   "projects": {
-    "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Api\\POS.Api.csproj": {
+    "C:\\SistemaCleanArchitecture\\POS.Api\\POS.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Api\\POS.Api.csproj",
+        "projectUniqueName": "C:\\SistemaCleanArchitecture\\POS.Api\\POS.Api.csproj",
         "projectName": "POS.Api",
-        "projectPath": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Api\\POS.Api.csproj",
-        "packagesPath": "C:\\Users\\jazmi\\.nuget\\packages\\",
-        "outputPath": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Api\\obj\\",
+        "projectPath": "C:\\SistemaCleanArchitecture\\POS.Api\\POS.Api.csproj",
+        "packagesPath": "C:\\Users\\Tinnova1\\.nuget\\packages\\",
+        "outputPath": "C:\\SistemaCleanArchitecture\\POS.Api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jazmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tinnova1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,21 +27,22 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.307\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Application\\POS.Application.csproj": {
-                "projectPath": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Application\\POS.Application.csproj"
+              "C:\\SistemaCleanArchitecture\\POS.Application\\POS.Application.csproj": {
+                "projectPath": "C:\\SistemaCleanArchitecture\\POS.Application\\POS.Application.csproj"
               },
-              "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Infrastructure\\POS.Infrastructure.csproj": {
-                "projectPath": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Infrastructure\\POS.Infrastructure.csproj"
+              "C:\\SistemaCleanArchitecture\\POS.Infrastructure\\POS.Infrastructure.csproj": {
+                "projectPath": "C:\\SistemaCleanArchitecture\\POS.Infrastructure\\POS.Infrastructure.csproj"
               },
-              "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Utilities\\POS.Utilities.csproj": {
-                "projectPath": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Utilities\\POS.Utilities.csproj"
+              "C:\\SistemaCleanArchitecture\\POS.Utilities\\POS.Utilities.csproj": {
+                "projectPath": "C:\\SistemaCleanArchitecture\\POS.Utilities\\POS.Utilities.csproj"
               }
             }
           }
@@ -51,6 +57,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.10, )"
@@ -85,21 +95,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Application\\POS.Application.csproj": {
+    "C:\\SistemaCleanArchitecture\\POS.Application\\POS.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Application\\POS.Application.csproj",
+        "projectUniqueName": "C:\\SistemaCleanArchitecture\\POS.Application\\POS.Application.csproj",
         "projectName": "POS.Application",
-        "projectPath": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Application\\POS.Application.csproj",
-        "packagesPath": "C:\\Users\\jazmi\\.nuget\\packages\\",
-        "outputPath": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Application\\obj\\",
+        "projectPath": "C:\\SistemaCleanArchitecture\\POS.Application\\POS.Application.csproj",
+        "packagesPath": "C:\\Users\\Tinnova1\\.nuget\\packages\\",
+        "outputPath": "C:\\SistemaCleanArchitecture\\POS.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jazmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tinnova1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -107,20 +122,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Domain\\POS.Domain.csproj": {
-                "projectPath": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Domain\\POS.Domain.csproj"
+              "C:\\SistemaCleanArchitecture\\POS.Domain\\POS.Domain.csproj": {
+                "projectPath": "C:\\SistemaCleanArchitecture\\POS.Domain\\POS.Domain.csproj"
               },
-              "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Infrastructure\\POS.Infrastructure.csproj": {
-                "projectPath": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Infrastructure\\POS.Infrastructure.csproj"
+              "C:\\SistemaCleanArchitecture\\POS.Infrastructure\\POS.Infrastructure.csproj": {
+                "projectPath": "C:\\SistemaCleanArchitecture\\POS.Infrastructure\\POS.Infrastructure.csproj"
               },
-              "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Utilities\\POS.Utilities.csproj": {
-                "projectPath": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Utilities\\POS.Utilities.csproj"
+              "C:\\SistemaCleanArchitecture\\POS.Utilities\\POS.Utilities.csproj": {
+                "projectPath": "C:\\SistemaCleanArchitecture\\POS.Utilities\\POS.Utilities.csproj"
               }
             }
           }
@@ -147,6 +163,10 @@
               "target": "Package",
               "version": "[12.17.0, )"
             },
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
             "FluentValidation.AspNetCore": {
               "target": "Package",
               "version": "[11.3.0, )"
@@ -168,21 +188,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Domain\\POS.Domain.csproj": {
+    "C:\\SistemaCleanArchitecture\\POS.Domain\\POS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Domain\\POS.Domain.csproj",
+        "projectUniqueName": "C:\\SistemaCleanArchitecture\\POS.Domain\\POS.Domain.csproj",
         "projectName": "POS.Domain",
-        "projectPath": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Domain\\POS.Domain.csproj",
-        "packagesPath": "C:\\Users\\jazmi\\.nuget\\packages\\",
-        "outputPath": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Domain\\obj\\",
+        "projectPath": "C:\\SistemaCleanArchitecture\\POS.Domain\\POS.Domain.csproj",
+        "packagesPath": "C:\\Users\\Tinnova1\\.nuget\\packages\\",
+        "outputPath": "C:\\SistemaCleanArchitecture\\POS.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jazmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tinnova1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -190,6 +215,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -239,21 +265,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Infrastructure\\POS.Infrastructure.csproj": {
+    "C:\\SistemaCleanArchitecture\\POS.Infrastructure\\POS.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Infrastructure\\POS.Infrastructure.csproj",
+        "projectUniqueName": "C:\\SistemaCleanArchitecture\\POS.Infrastructure\\POS.Infrastructure.csproj",
         "projectName": "POS.Infrastructure",
-        "projectPath": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Infrastructure\\POS.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\jazmi\\.nuget\\packages\\",
-        "outputPath": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Infrastructure\\obj\\",
+        "projectPath": "C:\\SistemaCleanArchitecture\\POS.Infrastructure\\POS.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Tinnova1\\.nuget\\packages\\",
+        "outputPath": "C:\\SistemaCleanArchitecture\\POS.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jazmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tinnova1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -261,17 +292,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Domain\\POS.Domain.csproj": {
-                "projectPath": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Domain\\POS.Domain.csproj"
+              "C:\\SistemaCleanArchitecture\\POS.Domain\\POS.Domain.csproj": {
+                "projectPath": "C:\\SistemaCleanArchitecture\\POS.Domain\\POS.Domain.csproj"
               },
-              "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Utilities\\POS.Utilities.csproj": {
-                "projectPath": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Utilities\\POS.Utilities.csproj"
+              "C:\\SistemaCleanArchitecture\\POS.Utilities\\POS.Utilities.csproj": {
+                "projectPath": "C:\\SistemaCleanArchitecture\\POS.Utilities\\POS.Utilities.csproj"
               }
             }
           }
@@ -307,21 +339,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Test\\POS.Test.csproj": {
+    "C:\\SistemaCleanArchitecture\\POS.Test\\POS.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Test\\POS.Test.csproj",
+        "projectUniqueName": "C:\\SistemaCleanArchitecture\\POS.Test\\POS.Test.csproj",
         "projectName": "POS.Test",
-        "projectPath": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Test\\POS.Test.csproj",
-        "packagesPath": "C:\\Users\\jazmi\\.nuget\\packages\\",
-        "outputPath": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Test\\obj\\",
+        "projectPath": "C:\\SistemaCleanArchitecture\\POS.Test\\POS.Test.csproj",
+        "packagesPath": "C:\\Users\\Tinnova1\\.nuget\\packages\\",
+        "outputPath": "C:\\SistemaCleanArchitecture\\POS.Test\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jazmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tinnova1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -329,14 +366,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Api\\POS.Api.csproj": {
-                "projectPath": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Api\\POS.Api.csproj"
+              "C:\\SistemaCleanArchitecture\\POS.Api\\POS.Api.csproj": {
+                "projectPath": "C:\\SistemaCleanArchitecture\\POS.Api\\POS.Api.csproj"
               }
             }
           }
@@ -358,6 +396,10 @@
             "MSTest.TestFramework": {
               "target": "Package",
               "version": "[2.2.10, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[7.0.10, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -384,21 +426,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Utilities\\POS.Utilities.csproj": {
+    "C:\\SistemaCleanArchitecture\\POS.Utilities\\POS.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Utilities\\POS.Utilities.csproj",
+        "projectUniqueName": "C:\\SistemaCleanArchitecture\\POS.Utilities\\POS.Utilities.csproj",
         "projectName": "POS.Utilities",
-        "projectPath": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Utilities\\POS.Utilities.csproj",
-        "packagesPath": "C:\\Users\\jazmi\\.nuget\\packages\\",
-        "outputPath": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Utilities\\obj\\",
+        "projectPath": "C:\\SistemaCleanArchitecture\\POS.Utilities\\POS.Utilities.csproj",
+        "packagesPath": "C:\\Users\\Tinnova1\\.nuget\\packages\\",
+        "outputPath": "C:\\SistemaCleanArchitecture\\POS.Utilities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jazmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tinnova1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -406,6 +453,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -439,7 +487,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
         }
       }
     }

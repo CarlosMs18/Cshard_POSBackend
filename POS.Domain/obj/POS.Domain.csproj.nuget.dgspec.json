@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Domain\\POS.Domain.csproj": {}
+    "C:\\SistemaCleanArchitecture\\POS.Domain\\POS.Domain.csproj": {}
   },
   "projects": {
-    "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Domain\\POS.Domain.csproj": {
+    "C:\\SistemaCleanArchitecture\\POS.Domain\\POS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Domain\\POS.Domain.csproj",
+        "projectUniqueName": "C:\\SistemaCleanArchitecture\\POS.Domain\\POS.Domain.csproj",
         "projectName": "POS.Domain",
-        "projectPath": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Domain\\POS.Domain.csproj",
-        "packagesPath": "C:\\Users\\jazmi\\.nuget\\packages\\",
-        "outputPath": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Domain\\obj\\",
+        "projectPath": "C:\\SistemaCleanArchitecture\\POS.Domain\\POS.Domain.csproj",
+        "packagesPath": "C:\\Users\\Tinnova1\\.nuget\\packages\\",
+        "outputPath": "C:\\SistemaCleanArchitecture\\POS.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jazmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tinnova1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -71,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
         }
       }
     }

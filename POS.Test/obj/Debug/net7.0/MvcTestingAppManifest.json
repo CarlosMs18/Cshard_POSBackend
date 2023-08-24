@@ -1,0 +1,7 @@
+{
+  "POS.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\SistemaCleanArchitecture\\POS.Api",
+  "POS.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\SistemaCleanArchitecture\\POS.Application",
+  "POS.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\SistemaCleanArchitecture\\POS.Domain",
+  "POS.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\SistemaCleanArchitecture\\POS.Infrastructure",
+  "POS.Utilities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\SistemaCleanArchitecture\\POS.Utilities"
+}

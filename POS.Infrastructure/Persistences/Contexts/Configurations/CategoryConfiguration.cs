@@ -13,7 +13,10 @@ namespace POS.Infrastructure.Persistences.Contexts.Configurations
     {
         public void Configure(EntityTypeBuilder<Category> builder)
         {
-            builder.HasKey(e => e.CategoryId).HasName("PK__Categori__19093A0BB8B0639C");
+            builder.HasKey(e => e.Id); //COMO HEMOS HECHO EL CAMNIO CON EL METODO ABSTRACTO BASENETITY LE DIREMOS QUE EL IDENTIFICAXDOR SERA EL CAMPO LLAMADO ID
+
+            builder.Property(e => e.Id)
+                .HasColumnName("CategoryId");
 
             builder.Property(e => e.Name).HasMaxLength(100);
         }

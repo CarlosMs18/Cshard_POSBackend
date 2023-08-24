@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CJUR4drLxJYRRIJZIM2pru9ur7ClOba++/V6yCjUJmU1K1jKnCRMkOLsg9WOT9tB+F23OohpG/hJakSVPimZ6A==",
+  "dgSpecHash": "YJSFBKRaUWxRQX3ev9NQ/5oDPBAoveMSxr+D4WZNm+KR3MtlJjaLg/FA1XiKMok9ws+hlftWITZmjps9eMxFbQ==",
   "success": true,
-  "projectFilePath": "C:\\ProyectoPosVenta\\Cshard_POSBackend\\POS.Utilities\\POS.Utilities.csproj",
+  "projectFilePath": "C:\\SistemaCleanArchitecture\\POS.Utilities\\POS.Utilities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
